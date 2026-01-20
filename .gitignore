@@ -12,6 +12,8 @@ logs/
 # .env
 # .env.local
 
+ERROR_HANDLING.md
+
 # Ignore build artifacts or any compiled files (if you use TypeScript or other compilers)
 build/
 dist/
